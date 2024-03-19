@@ -1,0 +1,1 @@
+<p style="font-weight: 400;"><strong>Message:</strong> {{ $data['answer'] }}</p>
